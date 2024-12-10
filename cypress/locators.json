@@ -1,0 +1,20 @@
+{
+    "homePage": {
+        "createAccount": "[href='https://magento.softwaretestingboard.com/customer/account/create/']"
+    },
+    "createAccountPage": {
+        "firstname": "#firstname",
+        "lastname": "#lastname",
+        "emailAddress": "#email_address",
+        "password": "#password",
+        "confirmPassword": "#password-confirmation",
+        "createAccount": "button[type='submit']",
+        "alert": "[role='alert']",
+        "firstnameError":"#firstname-error",
+        "lastnameError":"#lastname-error",
+        "emailError": "#email_address-error",
+        "passwordError":"#password-error",
+        "passConfirmError":"#password-confirmation-error",
+        "passwordStrength":"#password-strength-meter-container"
+    }
+}

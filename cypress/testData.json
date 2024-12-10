@@ -1,0 +1,23 @@
+{
+  "createAccountPage": {
+    "firstname": "Latika",
+    "lastname": "Balla",
+    "emailAddress": "@gmail.com",
+    "password": "Latika@123",
+    "invalidemail": "saksdk",
+    "weakPassword": "latika",
+    "shortPassword": "abc",
+    "invalidFirstname": "$@#aa",
+    "invalidLastname": "@$%#$dhsf",
+    "passwordDiff": "shajhsdjfskld",
+    "registrationMessage": "Thank you for registering with Main Website Store.",
+    "existingemail": "latikaballa@gmail.com",
+    "emailAlreadyError": "There is already an account with this email address",
+    "emailError": "Please enter a valid email address (Ex: johndoe@domain.com).",
+    "weakPasswordError": "Weak",
+    "lengthPasswordError": "Minimum length of this field must be equal or greater than 8 symbols. Leading and trailing spaces will be ignored.",
+    "passwordDiffError": "Please enter the same value again.",
+    "validationMessage": "This is a required field.",
+    "invalidNameMessage": "\n            First Name is not valid!\nLast Name is not valid!\n        "
+  }
+}
